@@ -27,9 +27,8 @@ I am currently seeking self-motivated PhD and Master students to work on social 
 # 📝 Selected Publications
 
 ## 2026
-- `ACL 2026` **K. Shi**, X. Sun, X. Tao, L. Li, Q. Lin, G. Xu. ***Concept rather than Document: Context Compression via AMR-based Conceptual Entropy***. ACL 2026. [Paper](#)
-- `arXiv 2026` **K. Shi**, X. Sun, Q. Lin, F. Alam, Q. Li, X. Tao, G. Xu. ***CoCR-RAG: Enhancing Retrieval-Augmented Generation in Web Q&A via Concept-Oriented Context Reconstruction***. arXiv:2603.23989, 2026.
-- `IEEE TAFFC` X. Sun, **K. Shi**\*, Q. Lin, Q. Li, G. Xu. ***Context-Aware Toxicity-Adaptive Sampling for Affective Language Generation***. *IEEE Transactions on Affective Computing*, 2026. [Paper](https://doi.org/10.1109/TAFFC.2026.3685346)
+- `ACL 2026` **K. Shi**, X. Sun, X. Tao, L. Li, Q. Lin, G. Xu. ***Concept rather than Document: Context Compression via AMR-based Conceptual Entropy***. ACL 2026.
+- `IEEE TAFFC` X. Sun, **K. Shi**\*, Q. Lin, Q. Li, G. Xu. ***Context-Aware Toxicity-Adaptive Sampling for Affective Language Generation***. *IEEE Transactions on Affective Computing*, 2026.
 - `WWW 2026` W. Fang, L. Li, **K. Shi**, Y. Yang, J. Zhang. ***Belief-Driven Multi-Agent Collaboration via Approximate Perfect Bayesian Equilibrium for Social Simulation***. The Web Conference 2026.
 - `WWW 2026` J. Liu, L. Li, Z. Li, K. Hu, **K. Shi**, J. Yuan. ***Hyena Operator for Fast Sequential Recommendation***. The Web Conference 2026.
 - `AAAI 2026` X. Wu, L. Li, **K. Shi**, X. Tao, J. Zhang, Y. Li. ***Exploring Selective Avoidance for Online User Behavior Analysis: A Forest of Thought Explanation***. AAAI 2026.
