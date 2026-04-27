@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and Digital Technologies](https://www.unisq.edu.au/), University of Southern Queensland (UniSQ). My research interests include computational social intelligence, urban and environmental computing, and large language models. I am an Associate Editor of *IEEE Transactions on Computational Social Systems* and *Natural Language Processing Journal*, and an Academic Editor of *PeerJ Computer Science* and *Wireless Communications and Mobile Computing*. I serve as Program Committee member for venues including NeurIPS, ICLR, ICML, ACL, EMNLP, COLING, KDD, and The Web Conference. I am an IEEE Senior Member.
+I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and Digital Technologies](https://www.unisq.edu.au/), University of Southern Queensland (UniSQ). My research interests include computational social intelligence, urban and environmental computing, and large language models. I am an Associate Editor of *IEEE Transactions on Computational Social Systems* and *Natural Language Processing Journal*, and an Academic Editor of *PeerJ Computer Science*. I serve as Program Committee member for venues including NeurIPS, ICLR, ICML, ACL, EMNLP, COLING, KDD, and The Web Conference. I am an IEEE Senior Member.
 
 For my full and timely publication list, please refer to my Google Scholar <a href='https://scholar.google.com/citations?user=iB3IJNUAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fkz-shi%2Fkz-shi.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -21,8 +21,6 @@ I am currently seeking self-motivated PhD and Master students to work on social 
 - *2025.05*: I joined the University of Southern Queensland as a Lecturer (Assistant Professor).
 
 # 📝 Selected Publications
-
-\* indicates corresponding author. ✉ marks the venue type. Please see [Google Scholar](https://scholar.google.com/citations?user=iB3IJNUAAAAJ) for the full list.
 
 ## 2026
 - `ACL 2026` **K. Shi**, X. Sun, X. Tao, L. Li, Q. Lin, G. Xu. ***Concept rather than Document: Context Compression via AMR-based Conceptual Entropy***. ACL 2026. [Paper](#)
@@ -48,14 +46,11 @@ I am currently seeking self-motivated PhD and Master students to work on social 
 - `ACL 2023` **K. Shi**, X. Sun, L. He, D. Wang, Q. Li, G. Xu. ***AMR-TST: Abstract Meaning Representation-based Text Style Transfer***. ACL 2023 Findings.
 - `IEEE TCSS` **K. Shi**, X. Peng, H. Lu, Y. Zhu, Z. Niu. ***Multiple Knowledge-Enhanced Meteorological Social Briefing Generation***. *IEEE Transactions on Computational Social Systems*, 2023.
 
-## Earlier
-- `IEEE TCSS` **K. Shi**, X. Peng, H. Lu, Y. Zhu, Z. Niu. ***Application of Social Sensors in Natural Disasters Emergency Management: A Review***. *IEEE Transactions on Computational Social Systems*, 2022.
-- `IP&M` **K. Shi**, Y. Wang, H. Lu, Y. Zhu, Z. Niu. ***EKGTF: A Knowledge-Enhanced Model for Optimizing Social Network-based Meteorological Briefings***. *Information Processing & Management*, vol. 58(4), 102564, 2021.
-- `FGCS` **K. Shi**, C. Gong, H. Lu, Y. Zhu, Z. Niu. ***Wide-grained Capsule Network with Sentence-Level Feature to Detect Meteorological Event in Social Network***. *Future Generation Computer Systems*, vol. 102, pp. 323–332, 2020.
-- `KBS` **K. Shi**, H. Lu, Y. Zhu, Z. Niu. ***Automatic Generation of Meteorological Briefing by Event Knowledge Guided Summarization Model***. *Knowledge-Based Systems*, vol. 192, 105379, 2020.
 
 # 💼 Funding (Selected)
-L
+- Academic Affairs Research Collaboration Grant / UniSQ 
+- Google Cloud Research Credits Program / Google
+- OpenAI Researcher Access Program / OpenAI
 
 # 🎖 Honors and Awards
 - *2025.12*: Early Career Researcher (ECR) Research Staff Award, University of Southern Queensland.
@@ -67,27 +62,29 @@ L
 - *2019.04*: Industry and Information Innovation Scholarship, Ministry of Industry and Information Technology, P. R. China.
 - *2017.10*: First Prize, ABB National Automation Paper Competition, Chinese Association of Automation & ABB Ltd.
 
-# 📖 Education
-- *2021.01 – 2023.02*, Ph.D. in Computer Systems, Australian Artificial Intelligence Institute, University of Technology Sydney.
-- *2016.09 – 2022.06*, Ph.D. in Computer Science and Technology, School of Computer Science and Technology, Beijing Institute of Technology.
-- *2013.09 – 2016.12*, Bachelor of Management (Accounting), School of Economics and Management, Inner Mongolia University.
-- *2012.09 – 2016.07*, Bachelor of Engineering (Software Engineering), School of Computer Science, Inner Mongolia University.
-
-# 💼 Work Experience
-- *2025.05 – present*, Lecturer (Computing), School of Science, Engineering and Digital Technologies, University of Southern Queensland.
-- *2024.01 – 2025.05*, Postdoctoral Research Fellow (Level B), School of Computer Science, University of Technology Sydney.
-- *2022.08 – 2024.01*, Research Associate (Level A), School of Computer Science, University of Technology Sydney.
-
 # 👨‍🏫 Teaching
-At the University of Southern Queensland, I have been course coordinator for **CSC1401 Foundation Programming** (Sep–Dec 2025, 253 students, survey 4.1/5.0), **CSC3403 Programming 4: Advanced Paradigms** (Sep–Dec 2025), **CSC5020 Foundations of Programming (Postgraduate)** (Sep–Dec 2025, 115 students, survey 4.3/5.0), **CSC1030 Systems and Data Management Fundamentals** (May–Aug 2025, 91 students, survey 4.6/5.0), and **CSC8520 Securing Networks** (May–Aug 2025, 23 students, survey 4.5/5.0). Earlier teaching at the University of Technology Sydney included 41181 Information Security and Management (Aug–Nov 2024, survey 4.33/5.0), 32144 Technology Research Preparation (Feb–Jun 2023), and 32931 Technology Research Methods (Aug–Nov 2022).
+- CSC1401 Foundation Programming @ UniSQ
+- CSC3403 Programming 4: Advanced Paradigms @ UniSQ
+- CSC5020 Foundations of Programming (Postgraduate) @ UniSQ
+- CSC1030 Systems and Data Management Fundamentals @ UniSQ
+- CSC8520 Securing Networks @ UniSQ
+- 41181 Information Security and Management @ UTS
+- 32144 Technology Research Preparation @ UTS
+- 32931 Technology Research Methods @ UTS
 
 # 🛠 Academic Service
 
-**Associate Editor**: *IEEE Transactions on Computational Social Systems*; *Natural Language Processing Journal*.
+**Associate Editor**: *IEEE Transactions on Computational Social Systems*; *Natural Language Processing Journal*
 
-**Academic Editor**: *PeerJ Computer Science*; *Wireless Communications and Mobile Computing*.
+**Academic Editor**: *PeerJ Computer Science*
 
-**Guest Editor**: Special Issues at *IEEE Transactions on Computational Social Systems* (Generative Computational Social Intelligence, 2025; Multimodal Representation and Reasoning for Social Computing, 2024), *Information Fusion* (GenAI for Information Fusion, 2024–2025), *EURASIP Journal on Image and Video Processing* (AI-Empowered Multimedia Processing for Behavioral and Social Computing, 2025–2026), *Electronics* (2023–2024), *Wireless Communications and Mobile Computing* (2022), and *International Journal of Distributed Sensor Networks* (2021).
+**Guest Editor**: 
+- *IEEE Transactions on Computational Social Systems* (Generative Computational Social Intelligence, 2025; Multimodal Representation and Reasoning for Social Computing, 2024)
+- *Information Fusion* (GenAI for Information Fusion, 2024–2025)
+- *EURASIP Journal on Image and Video Processing* (AI-Empowered Multimedia Processing for Behavioral and Social Computing, 2025–2026)
+- *Electronics* (2023–2024)
+- *Wireless Communications and Mobile Computing* (2022)
+- *International Journal of Distributed Sensor Networks* (2021)
 
 **Conference Organisation**: Special Session Chair, BESC 2025; Publicity Chair, BESC 2024; Web Chair, ICWL 2023 and ISET 2023.
 
