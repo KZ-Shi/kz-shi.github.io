@@ -1,58 +1,97 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and Digital Technologies](https://www.unisq.edu.au/), University of Southern Queensland (UniSQ). My research interests include computational social intelligence, urban and environmental computing, and large language models. I am an Associate Editor of *IEEE Transactions on Computational Social Systems* and *Natural Language Processing Journal*, and an Academic Editor of *PeerJ Computer Science* and *Wireless Communications and Mobile Computing*. I serve as Program Committee member for venues including NeurIPS, ICLR, ICML, ACL, EMNLP, COLING, KDD, and The Web Conference. I am an IEEE Senior Member.
 
-<span class='anchor' id='about-me'></span>
+For my full and timely publication list, please refer to my Google Scholar <a href='https://scholar.google.com/citations?user=iB3IJNUAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fkz-shi%2Fkz-shi.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am currently seeking self-motivated PhD and Master students to work on social computing, large language models, and decision support for crisis and disaster management. Please feel free to contact me by email if interested.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: I received the **2025 Early Career Researcher (ECR) Research Staff Award** from the University of Southern Queensland.
+- *2025.10*: Our paper received the **Best Special Session Paper Award** at BESC 2025.
+- *2025.06*: Our co-edited Special Issue on "Generative Computational Social Intelligence" is open for submissions at *IEEE TCSS*.
+- *2025.05*: I joined the University of Southern Queensland as a Lecturer (Assistant Professor).
 
-# 📝 Publications 
+# 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+\* indicates corresponding author. ✉ marks the venue type. Please see [Google Scholar](https://scholar.google.com/citations?user=iB3IJNUAAAAJ) for the full list.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## 2026
+- `ACL 2026` **K. Shi**, X. Sun, X. Tao, L. Li, Q. Lin, G. Xu. ***Concept rather than Document: Context Compression via AMR-based Conceptual Entropy***. ACL 2026. [Paper](#)
+- `arXiv 2026` **K. Shi**, X. Sun, Q. Lin, F. Alam, Q. Li, X. Tao, G. Xu. ***CoCR-RAG: Enhancing Retrieval-Augmented Generation in Web Q&A via Concept-Oriented Context Reconstruction***. arXiv:2603.23989, 2026.
+- `IEEE TAFFC` X. Sun, **K. Shi**\*, Q. Lin, Q. Li, G. Xu. ***Context-Aware Toxicity-Adaptive Sampling for Affective Language Generation***. *IEEE Transactions on Affective Computing*, 2026. [Paper](https://doi.org/10.1109/TAFFC.2026.3685346)
+- `WWW 2026` W. Fang, L. Li, **K. Shi**, Y. Yang, J. Zhang. ***Belief-Driven Multi-Agent Collaboration via Approximate Perfect Bayesian Equilibrium for Social Simulation***. The Web Conference 2026.
+- `WWW 2026` J. Liu, L. Li, Z. Li, K. Hu, **K. Shi**, J. Yuan. ***Hyena Operator for Fast Sequential Recommendation***. The Web Conference 2026.
+- `AAAI 2026` X. Wu, L. Li, **K. Shi**, X. Tao, J. Zhang, Y. Li. ***Exploring Selective Avoidance for Online User Behavior Analysis: A Forest of Thought Explanation***. AAAI 2026.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+## 2025
+- `IEEE TCE` **K. Shi**, X. Peng, Y. Zhu, H. He, K. Yi, Z. Niu. ***Multi-KGS: Generating Social Network-based Meteorological Decision Reports Fusing with Multiple Knowledge***. *IEEE Transactions on Consumer Electronics*, 2025.
+- `COLING 2025` **K. Shi**, X. Sun, D. Wang, Y. Fu, G. Xu, Q. Li. ***LLaMA-E: Empowering E-commerce Authoring with Object-Interleaved Instruction Following***. Proceedings of COLING 2025, pp. 870–885.
+- `IEEE TKDE` X. Sun, **K. Shi**\*, H. Tang, D. Wang, G. Xu. ***Educating Language Models as Promoters: Multi-Aspect Instruction Alignment with Self-Augmentation***. *IEEE Transactions on Knowledge and Data Engineering*, 2025.
+- `NeurIPS 2025` W. Yang, L. Li, X. Tao, **K. Shi**. ***Factor Decorrelation Enhanced Data Removal from Deep Predictive Models***. NeurIPS 2025.
+- `PAKDD 2025` X. Sun, **K. Shi**\*, H. Tang, G. Xu, Q. Li. ***Expert-Guided Toxicity Filtration for Debiased Generation***. PAKDD 2025, pp. 115–127.
+- `IEEE TCSS` Y. Ma, **K. Shi**\*, X. Peng, H. He, P. Zhang, J. Liu, Z. Lei, Z. Niu. ***Deep Graph Clustering with Triple Fusion Mechanism for Community Detection***. *IEEE Transactions on Computational Social Systems*, 2024.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+## 2024
+- `SIGIR 2024` J. Deng, **K. Shi**\*, H. Huo, D. Wang, G. Xu. ***Homogeneous-Listing-Augmented Self-Supervised Multimodal Product Title Refinement***. SIGIR 2024, pp. 2870–2874.
+- `BESC 2024` T. Wu, **K. Shi**\*. ***Enhancing Academic Title Drafting through Abstractive Summarization***. BESC 2024.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## 2023
+- `ACL 2023` **K. Shi**, X. Sun, L. He, D. Wang, Q. Li, G. Xu. ***AMR-TST: Abstract Meaning Representation-based Text Style Transfer***. ACL 2023 Findings.
+- `IEEE TCSS` **K. Shi**, X. Peng, H. Lu, Y. Zhu, Z. Niu. ***Multiple Knowledge-Enhanced Meteorological Social Briefing Generation***. *IEEE Transactions on Computational Social Systems*, 2023.
+
+## Earlier
+- `IEEE TCSS` **K. Shi**, X. Peng, H. Lu, Y. Zhu, Z. Niu. ***Application of Social Sensors in Natural Disasters Emergency Management: A Review***. *IEEE Transactions on Computational Social Systems*, 2022.
+- `IP&M` **K. Shi**, Y. Wang, H. Lu, Y. Zhu, Z. Niu. ***EKGTF: A Knowledge-Enhanced Model for Optimizing Social Network-based Meteorological Briefings***. *Information Processing & Management*, vol. 58(4), 102564, 2021.
+- `FGCS` **K. Shi**, C. Gong, H. Lu, Y. Zhu, Z. Niu. ***Wide-grained Capsule Network with Sentence-Level Feature to Detect Meteorological Event in Social Network***. *Future Generation Computer Systems*, vol. 102, pp. 323–332, 2020.
+- `KBS` **K. Shi**, H. Lu, Y. Zhu, Z. Niu. ***Automatic Generation of Meteorological Briefing by Event Knowledge Guided Summarization Model***. *Knowledge-Based Systems*, vol. 192, 105379, 2020.
+
+# 💼 Funding (Selected)
+L
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: Early Career Researcher (ECR) Research Staff Award, University of Southern Queensland.
+- *2025.10*: Best Special Session Paper Award, BESC 2025.
+- *2021.01*: International Research Scholarship, University of Technology Sydney.
+- *2020.11*: National Scholarship, Ministry of Education, P. R. China.
+- *2020.06*: Outstanding Doctoral Dissertation Fund, Beijing Institute of Technology.
+- *2019.09*: Huawei Scholarship, Huawei Technologies Co., Ltd.
+- *2019.04*: Industry and Information Innovation Scholarship, Ministry of Industry and Information Technology, P. R. China.
+- *2017.10*: First Prize, ABB National Automation Paper Competition, Chinese Association of Automation & ABB Ltd.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2021.01 – 2023.02*, Ph.D. in Computer Systems, Australian Artificial Intelligence Institute, University of Technology Sydney.
+- *2016.09 – 2022.06*, Ph.D. in Computer Science and Technology, School of Computer Science and Technology, Beijing Institute of Technology.
+- *2013.09 – 2016.12*, Bachelor of Management (Accounting), School of Economics and Management, Inner Mongolia University.
+- *2012.09 – 2016.07*, Bachelor of Engineering (Software Engineering), School of Computer Science, Inner Mongolia University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💼 Work Experience
+- *2025.05 – present*, Lecturer (Computing), School of Science, Engineering and Digital Technologies, University of Southern Queensland.
+- *2024.01 – 2025.05*, Postdoctoral Research Fellow (Level B), School of Computer Science, University of Technology Sydney.
+- *2022.08 – 2024.01*, Research Associate (Level A), School of Computer Science, University of Technology Sydney.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 👨‍🏫 Teaching
+At the University of Southern Queensland, I have been course coordinator for **CSC1401 Foundation Programming** (Sep–Dec 2025, 253 students, survey 4.1/5.0), **CSC3403 Programming 4: Advanced Paradigms** (Sep–Dec 2025), **CSC5020 Foundations of Programming (Postgraduate)** (Sep–Dec 2025, 115 students, survey 4.3/5.0), **CSC1030 Systems and Data Management Fundamentals** (May–Aug 2025, 91 students, survey 4.6/5.0), and **CSC8520 Securing Networks** (May–Aug 2025, 23 students, survey 4.5/5.0). Earlier teaching at the University of Technology Sydney included 41181 Information Security and Management (Aug–Nov 2024, survey 4.33/5.0), 32144 Technology Research Preparation (Feb–Jun 2023), and 32931 Technology Research Methods (Aug–Nov 2022).
+
+# 🛠 Academic Service
+
+**Associate Editor**: *IEEE Transactions on Computational Social Systems*; *Natural Language Processing Journal*.
+
+**Academic Editor**: *PeerJ Computer Science*; *Wireless Communications and Mobile Computing*.
+
+**Guest Editor**: Special Issues at *IEEE Transactions on Computational Social Systems* (Generative Computational Social Intelligence, 2025; Multimodal Representation and Reasoning for Social Computing, 2024), *Information Fusion* (GenAI for Information Fusion, 2024–2025), *EURASIP Journal on Image and Video Processing* (AI-Empowered Multimedia Processing for Behavioral and Social Computing, 2025–2026), *Electronics* (2023–2024), *Wireless Communications and Mobile Computing* (2022), and *International Journal of Distributed Sensor Networks* (2021).
+
+**Conference Organisation**: Special Session Chair, BESC 2025; Publicity Chair, BESC 2024; Web Chair, ICWL 2023 and ISET 2023.
+
+**Program Committee Member**: NeurIPS (2024–2026), ICML (2025–2026), ICLR (2025–2026), KDD (2023, 2026), The Web Conference (2025–2026), ACM Multimedia (2025–2026), ACL (2023), COLING (2025), ARR (2024–2026), SDM, PRICAI, ECAI, SEKE, BESC.
+
+# 🤝 Leadership and Membership
+I serve as Deputy Director (Research) of the UniSQ–Beijing University of Posts and Telecommunications (BUPT) Joint Laboratory. I am an IEEE Senior Member, a member of the IEEE Systems, Man, and Cybernetics Society, the China Computer Federation (CCF), the Chinese Association for Artificial Intelligence (CAAI), and the Artificial Intelligence Technical Committee of the China Meteorological Service Association.
