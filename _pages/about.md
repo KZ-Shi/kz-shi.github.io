@@ -32,27 +32,27 @@ I am currently seeking self-motivated PhD and Master students to work on social 
 # 📝 Selected Publications
 
 ## 2026
-- `ACL 2026` **K. Shi**, X. Sun, X. Tao, L. Li, Q. Lin, G. Xu. ***Concept rather than Document: Context Compression via AMR-based Conceptual Entropy***. ACL 2026.
-- `IEEE TAFFC` X. Sun, **K. Shi**\*, Q. Lin, Q. Li, G. Xu. ***Context-Aware Toxicity-Adaptive Sampling for Affective Language Generation***. *IEEE Transactions on Affective Computing*, 2026.
-- `WWW 2026` W. Fang, L. Li, **K. Shi**, Y. Yang, J. Zhang. ***Belief-Driven Multi-Agent Collaboration via Approximate Perfect Bayesian Equilibrium for Social Simulation***. The Web Conference 2026.
-- `WWW 2026` J. Liu, L. Li, Z. Li, K. Hu, **K. Shi**, J. Yuan. ***Hyena Operator for Fast Sequential Recommendation***. The Web Conference 2026.
-- `AAAI 2026` X. Wu, L. Li, **K. Shi**, X. Tao, J. Zhang, Y. Li. ***Exploring Selective Avoidance for Online User Behavior Analysis: A Forest of Thought Explanation***. AAAI 2026.
+- `ACL 2026` **K. Shi**, X. Sun, X. Tao, L. Li, Q. Lin, G. Xu. ***Concept rather than Document: Context Compression via AMR-based Conceptual Entropy***. *ACL 2026 Findings*
+- `IEEE TAFFC` X. Sun, **K. Shi**\*, Q. Lin, Q. Li, G. Xu. ***Context-Aware Toxicity-Adaptive Sampling for Affective Language Generation***. *IEEE Transactions on Affective Computing*
+- `WWW 2026` W. Fang, L. Li, **K. Shi**, Y. Yang, J. Zhang. ***Belief-Driven Multi-Agent Collaboration via Approximate Perfect Bayesian Equilibrium for Social Simulation***. *The Web Conference 2026*
+- `WWW 2026` J. Liu, L. Li, Z. Li, K. Hu, **K. Shi**, J. Yuan. ***Hyena Operator for Fast Sequential Recommendation***. *The Web Conference 2026*
+- `AAAI 2026` X. Wu, L. Li, **K. Shi**, X. Tao, J. Zhang, Y. Li. ***Exploring Selective Avoidance for Online User Behavior Analysis: A Forest of Thought Explanation***. *AAAI 2026*
 
 ## 2025
 - `IEEE TCE` **K. Shi**, X. Peng, Y. Zhu, H. He, K. Yi, Z. Niu. ***Multi-KGS: Generating Social Network-based Meteorological Decision Reports Fusing with Multiple Knowledge***. *IEEE Transactions on Consumer Electronics*, 2025.
-- `COLING 2025` **K. Shi**, X. Sun, D. Wang, Y. Fu, G. Xu, Q. Li. ***LLaMA-E: Empowering E-commerce Authoring with Object-Interleaved Instruction Following***. Proceedings of COLING 2025, pp. 870–885.
+- `COLING 2025` **K. Shi**, X. Sun, D. Wang, Y. Fu, G. Xu, Q. Li. ***LLaMA-E: Empowering E-commerce Authoring with Object-Interleaved Instruction Following***. *Proceedings of COLING 2025*
 - `IEEE TKDE` X. Sun, **K. Shi**\*, H. Tang, D. Wang, G. Xu. ***Educating Language Models as Promoters: Multi-Aspect Instruction Alignment with Self-Augmentation***. *IEEE Transactions on Knowledge and Data Engineering*, 2025.
-- `NeurIPS 2025` W. Yang, L. Li, X. Tao, **K. Shi**. ***Factor Decorrelation Enhanced Data Removal from Deep Predictive Models***. NeurIPS 2025.
-- `PAKDD 2025` X. Sun, **K. Shi**\*, H. Tang, G. Xu, Q. Li. ***Expert-Guided Toxicity Filtration for Debiased Generation***. PAKDD 2025, pp. 115–127.
+- `NeurIPS 2025` W. Yang, L. Li, X. Tao, **K. Shi**. ***Factor Decorrelation Enhanced Data Removal from Deep Predictive Models***. *NeurIPS 2025*
+- `PAKDD 2025` X. Sun, **K. Shi**\*, H. Tang, G. Xu, Q. Li. ***Expert-Guided Toxicity Filtration for Debiased Generation***. *PAKDD 2025*
 - `IEEE TCSS` Y. Ma, **K. Shi**\*, X. Peng, H. He, P. Zhang, J. Liu, Z. Lei, Z. Niu. ***Deep Graph Clustering with Triple Fusion Mechanism for Community Detection***. *IEEE Transactions on Computational Social Systems*, 2024.
 
 ## 2024
-- `SIGIR 2024` J. Deng, **K. Shi**\*, H. Huo, D. Wang, G. Xu. ***Homogeneous-Listing-Augmented Self-Supervised Multimodal Product Title Refinement***. SIGIR 2024, pp. 2870–2874.
-- `BESC 2024` T. Wu, **K. Shi**\*. ***Enhancing Academic Title Drafting through Abstractive Summarization***. BESC 2024.
+- `SIGIR 2024` J. Deng, **K. Shi**\*, H. Huo, D. Wang, G. Xu. ***Homogeneous-Listing-Augmented Self-Supervised Multimodal Product Title Refinement***. *SIGIR 2024*
+- `BESC 2024` T. Wu, **K. Shi**\*. ***Enhancing Academic Title Drafting through Abstractive Summarization***. *BESC 2024*
 
 ## 2023
-- `ACL 2023` **K. Shi**, X. Sun, L. He, D. Wang, Q. Li, G. Xu. ***AMR-TST: Abstract Meaning Representation-based Text Style Transfer***. ACL 2023 Findings.
-- `IEEE TCSS` **K. Shi**, X. Peng, H. Lu, Y. Zhu, Z. Niu. ***Multiple Knowledge-Enhanced Meteorological Social Briefing Generation***. *IEEE Transactions on Computational Social Systems*, 2023.
+- `ACL 2023` **K. Shi**, X. Sun, L. He, D. Wang, Q. Li, G. Xu. ***AMR-TST: Abstract Meaning Representation-based Text Style Transfer***. *ACL 2023 Findings*
+- `IEEE TCSS` **K. Shi**, X. Peng, H. Lu, Y. Zhu, Z. Niu. ***Multiple Knowledge-Enhanced Meteorological Social Briefing Generation***. *IEEE Transactions on Computational Social Systems*
 
 
 # 💼 Funding
@@ -87,8 +87,9 @@ I am currently seeking self-motivated PhD and Master students to work on social 
 **Academic Editor**: *PeerJ Computer Science*
 
 **Guest Editor**: 
-- *IEEE Transactions on Computational Social Systems* (Generative Computational Social Intelligence, 2025; Multimodal Representation and Reasoning for Social Computing, 2024)
+- *IEEE Transactions on Computational Social Systems* (Generative Computational Social Intelligence, 2025)
 - *Information Fusion* (GenAI for Information Fusion, 2024–2025)
+- *IEEE Transactions on Computational Social Systems* (Multimodal Representation and Reasoning for Social Computing, 2024)
 - *EURASIP Journal on Image and Video Processing* (AI-Empowered Multimedia Processing for Behavioral and Social Computing, 2025–2026)
 - *Electronics* (2023–2024)
 - *Wireless Communications and Mobile Computing* (2022)
@@ -100,3 +101,7 @@ I am currently seeking self-motivated PhD and Master students to work on social 
 
 # 🤝 Leadership and Membership
 - Deputy Director (Research) of the UniSQ–Beijing University of Posts and Telecommunications (BUPT) Joint Laboratory
+
+# ⚙️ Prototype (CoverAI)
+- **Social Sensor-based AUS Natural Disaster Management System**: [vision.coverai.com.au](https://vision.coverai.com.au/)
+- **CoverAI Disaster Support Chatbot**: [brain.coverai.com.au](https://brain.coverai.com.au/)
