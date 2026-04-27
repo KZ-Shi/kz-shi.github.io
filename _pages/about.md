@@ -12,6 +12,10 @@ I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and
 
 For my full and timely publication list, please refer to my Google Scholar <a href='https://scholar.google.com/citations?user=iB3IJNUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+<!-- https://img.shields.io/badge/Google%20Scholar-Kaize%20Shi-blue?logo=Google%20Scholar -->
+<!-- https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fkz-shi%2Fkz-shi.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations -->
+<!-- https://cdn.jsdelivr.net/gh/kz-shi/kz-shi.github.io@google-scholar-stats/gs_data_shieldsio.json -->
+
 I am currently seeking self-motivated PhD and Master students to work on social computing, large language models, and decision support for crisis and disaster management. Please feel free to contact me by email if interested.
 
 # 🔥 News
