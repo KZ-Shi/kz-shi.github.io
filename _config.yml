@@ -1,163 +1,137 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+locale                   : "en-US"
+title                    : "Kaize Shi"
+title_separator          : "-"
+name                     : &name "Kaize Shi"
+description              : &description "Personal homepage of Kaize Shi, Lecturer at the University of Southern Queensland."
+url                      : https://kz-shi.github.io   # CHANGE: if you ever switch to a custom domain
+baseurl                  : ""                          # leave empty when repo name is USERNAME.github.io
+repository               : "kz-shi/kz-shi.github.io"   # CHANGE: must match your renamed repo
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled"
+talkmap_link             : false
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
-
-# Site Author
+# Site Author (left sidebar)
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  avatar                 : "Kaize Shi.png"   # put your photo at images/Kaize Shi.png
+  name                   : "Kaize Shi 时恺泽"
+  pronouns               :
+  bio                    : "Lecturer / Assistant Professor"
+  location               : "Brisbane, Australia"
+  employer               : "University of Southern Queensland"
+  uri                    :
+  email                  : "Kaize.Shi@unisq.edu.au"
+  ieee                   : "Kaize.Shi@ieee.org"
 
+  # Academic profiles
+  googlescholar          : "https://scholar.google.com/citations?user=iB3IJNUAAAAJ"
+  researchgate           :                                      # CHANGE: paste your ResearchGate URL if you have one
+  orcid                  : "https://orcid.org/0000-0003-3561-3627"                                     # CHANGE: paste your ORCID URL, e.g. https://orcid.org/0000-0000-0000-0000
+  dblp                   : "https://dblp.org/pid/233/6951.html" # CHANGE: confirm and update if different
+  semantic               :                                      # optional Semantic Scholar URL
+
+  # Social
+  github                 : "kz-shi"
+  linkedin               : "https://www.linkedin.com/in/kaize-shi/"                          # CHANGE: confirm your LinkedIn handle
+  twitter                :
+  weibo                  :
+  zhihu                  :
+  bilibili               :
+  facebook               :
+
+  # University / personal
+  homepage               : "https://staffprofile.unisq.edu.au/Profile/Kaize-Shi"  # CHANGE: paste your real UniSQ profile URL
+  cv                     : ""             # put your CV pdf at files/
+
+# Google scholar stats - shows the citation badge in the top-right of About Me
+scholar:
+  id                     : "iB3IJNUAAAAJ"     # your Google Scholar ID, parsed from the user= parameter
+  cache_path             : "/google-scholar-stats/gs_data.json"
+
+google_scholar_stats_use_cdn : true
 
 # Reading Files
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
-  - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - .github
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
+encoding                 : "utf-8"
+markdown_ext             : "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
+markdown                 : kramdown
+highlighter              : rouge
+lsi                      : false
+excerpt_separator        : "\n\n"
+incremental              : false
 
 # Markdown Processing
 kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-# Defaults
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-      author_profile: true
-
+  input                  : GFM
+  hard_wrap              : false
+  auto_ids               : true
+  footnote_nr            : 1
+  entity_output          : as_char
+  toc_levels             : 1..6
+  smart_quotes           : lsquo,rsquo,ldquo,rdquo
+  enable_coderay         : false
 
 # Sass/SCSS
 sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  sass_dir               : _sass
+  style                  : compressed
 
 # Outputting
-permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink                : /:categories/:title/
+timezone                 : Australia/Brisbane
 
-
-# Plugins
+# Plugins (whitelisted for GitHub Pages)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+  - jekyll-include-cache
+
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  - jekyll-include-cache
 
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+# Defaults
+defaults:
+  - scope:
+      path                : ""
+      type                : pages
+    values:
+      layout              : single
+      author_profile      : true
