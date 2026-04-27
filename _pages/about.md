@@ -94,4 +94,4 @@ I am currently seeking self-motivated PhD and Master students to work on social 
 **Program Committee Member**: NeurIPS (2024–2026), ICML (2025–2026), ICLR (2025–2026), KDD (2023, 2026), The Web Conference (2025–2026), ACM Multimedia (2025–2026), ACL (2023), COLING (2025), ARR (2024–2026), SDM, PRICAI, ECAI, SEKE, BESC.
 
 # 🤝 Leadership and Membership
-- Deputy Director (Research) of the UniSQ–Beijing University of Posts and Telecommunications (BUPT) Joint Laboratory
+- Deputy Director (Research) of the UniSQ–Beijing University of Posts and Telecommunications (BUPT) Joint Laboratory 
