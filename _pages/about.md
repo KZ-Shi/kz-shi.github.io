@@ -60,7 +60,6 @@ I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and
 - *2025.10*: Best Special Session Paper Award, BESC 2025.
 - *2021.01*: International Research Scholarship, University of Technology Sydney.
 - *2020.11*: National Scholarship, Ministry of Education, P. R. China.
-- *2020.06*: Outstanding Doctoral Dissertation Fund, Beijing Institute of Technology.
 - *2019.09*: Huawei Scholarship, Huawei Technologies Co., Ltd.
 - *2019.04*: Industry and Information Innovation Scholarship, Ministry of Industry and Information Technology, P. R. China.
 - *2017.10*: First Prize, ABB National Automation Paper Competition, Chinese Association of Automation & ABB Ltd.
