@@ -8,26 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and Digital Technologies](https://www.unisq.edu.au/), University of Southern Queensland. My research interests include computational social intelligence, urban and environmental computing, and large language models. For my full and timely publication list, please refer to my Google Scholar <a href='https://scholar.google.com/citations?user=iB3IJNUAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fkz-shi%2Fkz-shi.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am an Associate Editor of *IEEE Transactions on Computational Social Systems* and *Natural Language Processing Journal*, and an Academic Editor of *PeerJ Computer Science*. I serve as Program Committee member for venues including NeurIPS, ICLR, ICML, ACL, EMNLP, COLING, KDD, and The Web Conference.
+I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and Digital Technologies](https://www.unisq.edu.au/), University of Southern Queensland. My research interests include computational social intelligence, urban and environmental computing, and large language models. For my full and timely publication list, please refer to my Google Scholar <a href='https://scholar.google.com/citations?user=iB3IJNUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am an Associate Editor of *IEEE Transactions on Computational Social Systems* and *Natural Language Processing Journal*, and an Academic Editor of *PeerJ Computer Science*. I serve as Program Committee member for venues including NeurIPS, ICLR, ICML, ACL, EMNLP, COLING, KDD, and The Web Conference.
 
 <!-- https://img.shields.io/badge/Google%20Scholar-Kaize%20Shi-blue?logo=Google%20Scholar -->
 <!-- https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fkz-shi%2Fkz-shi.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations -->
 <!-- https://cdn.jsdelivr.net/gh/kz-shi/kz-shi.github.io@google-scholar-stats/gs_data_shieldsio.json -->
 
-I am currently seeking self-motivated PhD and Master students to work on social computing, large language models, and decision support for crisis and disaster management. Please feel free to contact me by email if interested.
+***I am currently seeking self-motivated PhD and Master students to work on social computing, large language models, and decision support for crisis and disaster management. Please feel free to contact me by email if interested.***
 
 # 🔥 News
-- *2026.04*: I have been elevated to IEEE Senior Member.  
-- *2026.04*: My PhD student, Xueyao Sun, has had her paper, *Context-Aware Toxicity-Adaptive Sampling for Affective Language Generation*, accepted by **IEEE Transactions on Affective Computing**. This marks her third accepted publication during her PhD.  
-- *2026.04*: My paper, *Concept rather than Document: Context Compression via AMR-based Conceptual Entropy*, has been accepted as a Findings paper at **ACL 2026**.  
-- *2026.04*: The MOU between UniSQ and Beijing University of Posts and Telecommunications (BUPT) has been successfully established under our coordination. The **UniSQ–BUPT Joint Lab** will support talented students in undertaking Cotutelle PhD programs across both institutions.  
-- *2026.03*: Our paper, *Recurrent Prompt Learning for Spatio-Temporal Forecasting*, has been accepted by **IEEE Transactions on Consumer Electronics**.  
-- *2026.02*: We have three papers accepted by *The Web Conference 2026*, with *Hyena Operator for Fast Sequential Recommendation* selected for oral presentation.  
-- *2026.02*: Our paper, *Quantitative Reflection for Mental State Analysis via Aspect Sentiment Triplet Extraction*, has been accepted by **IEEE Transactions on Affective Computing**.  
-- *2025.12*: I received the **2025 Early Career Researcher (ECR) Research Staff Award** from the University of Southern Queensland.
-- *2025.10*: Our paper received the **Best Special Session Paper Award** at *BESC 2025*.
-- *2025.06*: Our co-edited Special Issue on "Generative Computational Social Intelligence" is open for submissions at *IEEE TCSS*.
-- *2025.05*: I joined the University of Southern Queensland as a Lecturer (Assistant Professor).
+{% include_relative news.md %}
 
 # 📝 Selected Publications
 
