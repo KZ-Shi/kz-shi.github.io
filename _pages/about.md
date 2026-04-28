@@ -97,6 +97,8 @@ I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and
 # 🤝 Leadership
 - Deputy Director (Research) of the UniSQ–Beijing University of Posts and Telecommunications (BUPT) Joint Laboratory
 
+<span class='anchor' id='coverai'></span>
+
 # ☔️ CoverAI: GenAI-driven Solutions for Disaster Resilience
 - **Social Sensor-based AUS Natural Disaster Management System**: [vision.coverai.com.au](https://vision.coverai.com.au/)
 - **CoverAI Disaster Support Chatbot**: [brain.coverai.com.au](https://brain.coverai.com.au/)
