@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and Digital Technologies](https://www.unisq.edu.au/), University of Southern Queensland. My research interests include computational social intelligence, urban and environmental computing, and large language models. For my full and timely publication list, please refer to my Google Scholar <a href='https://scholar.google.com/citations?user=iB3IJNUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am an Associate Editor of *IEEE Transactions on Computational Social Systems* and *Natural Language Processing Journal*, and an Academic Editor of *PeerJ Computer Science*. I serve as Program Committee member for venues including NeurIPS, ICLR, ICML, ACL, EMNLP, COLING, KDD, and The Web Conference.
+I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and Digital Technologies](https://www.unisq.edu.au/), University of Southern Queensland. My research interests include computational social intelligence, urban and environmental computing, and large language models. For my full and timely publication list, please refer to my Google Scholar <a href='https://scholar.google.com/citations?user=iB3IJNUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am an Associate Editor of *IEEE Transactions on Computational Social Systems* and an Academic Editor of *PeerJ Computer Science*. I serve as Program Committee member for venues including NeurIPS, ICLR, ICML, ACL, EMNLP, COLING, KDD, and The Web Conference.
 
 ***I am currently seeking self-motivated PhD and Master students to work on social computing, large language models, and decision support for crisis and disaster management. Please feel free to contact me by email if interested.***
 
@@ -76,9 +76,11 @@ I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and
 
 # 🛠 Academic Service
 
-**Associate Editor**: *IEEE Transactions on Computational Social Systems*; *Natural Language Processing Journal*
+- **Associate Editor**: *IEEE Transactions on Computational Social Systems*
 
-**Academic Editor**: *PeerJ Computer Science*
+- **Academic Editor**: *PeerJ Computer Science*
+
+- **Editorial Board Member**: *Natural Language Processing Journal*
 
 **Guest Editor**: 
 - *IEEE Transactions on Computational Social Systems* (Generative Computational Social Intelligence, 2025)
@@ -101,3 +103,5 @@ I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and
 # ☔️ CoverAI: GenAI-driven Solutions for Disaster Resilience
 - **Social Sensor-based AUS Natural Disaster Management System**: [vision.coverai.com.au](https://vision.coverai.com.au/)
 - **CoverAI Disaster Support Chatbot**: [brain.coverai.com.au](https://brain.coverai.com.au/)
+
+# 🌏 Visitors
