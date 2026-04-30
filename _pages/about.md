@@ -105,6 +105,6 @@ I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and
 - **CoverAI Disaster Support Chatbot**: [brain.coverai.com.au](https://brain.coverai.com.au/)
 
 # 🌏 Visitors
-<div style="width:200px; margin:0 auto;">
+<div style="width:200px;">
 <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=UhHIthjpfT3kuYe0eziA_yS72Mm_B2FyF01SdL8OmRI"></script>
 </div>
