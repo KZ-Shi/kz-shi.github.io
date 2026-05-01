@@ -9,9 +9,6 @@ main:
   - title: "Publications"
     url: "/#-selected-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Funding"
     url: "/#-funding"
 
@@ -30,3 +27,5 @@ main:
   - title: "CoverAI"
     url: "/#coverai"
     
+  - title: "HI Lab"
+    url: "https://kz-shi.github.io/hi-lab/"
