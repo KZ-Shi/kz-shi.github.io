@@ -20,7 +20,7 @@
 <div class="scrollable-area">  
     <ul>
 
-    <li><em>2026.05</em>: We have two papers accepted by SIGKDD 2026 2026! Congratulations to the team!</li>
+    <li><em>2026.05</em>: We have two papers accepted by SIGKDD 2026! Congratulations to the team!</li>
     <li><em>2026.05</em>: Our paper, Pattern-Anchor Alignment for Continual Knowledge Graph Embedding under Structural Distribution Shift, has been accepted by IJCAI-ECAI 2026.</li>
     <li><em>2026.04</em>: I have been elevated to IEEE Senior Member.</li>
     <li><em>2026.04</em>: My PhD student, Xueyao Sun, has had her paper, Context-Aware Toxicity-Adaptive Sampling for Affective Language Generation, accepted by IEEE Transactions on Affective Computing. This marks her third accepted publication during her PhD.</li>
