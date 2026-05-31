@@ -83,6 +83,7 @@ I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and
 - **Editorial Board Member**: *Natural Language Processing Journal*
 
 **Guest Editor**: 
+- *Pattern Recognition* (Agentic AI for Pattern Recognition, 2026)
 - *IEEE Transactions on Computational Social Systems* (Generative Computational Social Intelligence, 2025)
 - *Information Fusion* (GenAI for Information Fusion, 2024–2025)
 - *IEEE Transactions on Computational Social Systems* (Multimodal Representation and Reasoning for Social Computing, 2024)
