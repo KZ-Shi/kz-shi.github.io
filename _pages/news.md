@@ -20,6 +20,7 @@
 <div class="scrollable-area">  
     <ul>
 
+    <li><em>2026.06</em>: Our special issue in <a href="https://www.sciencedirect.com/special-issue/334009/agentic-ai-for-pattern-recognition">Pattern Recognition, “Agentic AI for Pattern Recognition”</a>, is now open for submissions. We warmly welcome high-quality papers from the community!</li>
     <li><em>2026.05</em>: We have two papers accepted by SIGKDD 2026! Congratulations to the team!</li>
     <li><em>2026.05</em>: Our paper, Pattern-Anchor Alignment for Continual Knowledge Graph Embedding under Structural Distribution Shift, has been accepted by IJCAI-ECAI 2026.</li>
     <li><em>2026.04</em>: I have been elevated to IEEE Senior Member.</li>
