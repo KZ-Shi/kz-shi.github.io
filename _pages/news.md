@@ -20,6 +20,7 @@
 <div class="scrollable-area">  
     <ul>
 
+    <li><em>2026.07</em>: I've been awarded the Social Computing Rising Star at CAAI-BDSC 2026 in Chongqing, China.</li>
     <li><em>2026.06</em>: Our special issue in Pattern Recognition, <a href="https://www.sciencedirect.com/special-issue/334009/agentic-ai-for-pattern-recognition">“Agentic AI for Pattern Recognition”</a>, is now open for submissions. We warmly welcome high-quality papers from the community!</li>
     <li><em>2026.05</em>: We have two papers accepted by SIGKDD 2026! Congratulations to the team!</li>
     <li><em>2026.05</em>: Our paper, Pattern-Anchor Alignment for Continual Knowledge Graph Embedding under Structural Distribution Shift, has been accepted by IJCAI-ECAI 2026.</li>
