@@ -57,6 +57,7 @@ I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and
 - OpenAI Researcher Access Program / OpenAI
 
 # 🎖 Honors and Awards
+- *2026.07*: Social Computing Rising Star Award, Chinese Association for Artificial Intelligence (CAAI) 11th China National Conference on Big Data & Social Computing.
 - *2025.12*: Early Career Researcher (ECR) Research Staff Award, University of Southern Queensland.
 - *2025.10*: Best Special Session Paper Award, BESC 2025.
 - *2021.01*: International Research Scholarship, University of Technology Sydney.
