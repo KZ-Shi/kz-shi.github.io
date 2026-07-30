@@ -51,6 +51,7 @@ I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and
 
 
 # 💼 Funding
+- National Industry PhD Program / Department of Education, Australian Government 
 - Academic Affairs Research Collaboration Grant / UniSQ 
 - Google Cloud Research Credits Program / Google
 - OpenAI Researcher Access Program / OpenAI
