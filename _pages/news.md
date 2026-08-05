@@ -19,7 +19,7 @@
 </style>  
 <div class="scrollable-area">  
     <ul>
-    <li><em>2026.07</em>: Our paper, **"Concept-based Heterogeneous Context Fusion for Enhancing RAG via AMR-driven Distillation,"** has been accepted for publication in **Pattern Recognition** (D1, CORE A*), with me as the first author—many thanks to all my co-authors for their invaluable support and collaboration!</li>
+    <li><em>2026.08</em>: Our paper, **"Concept-based Heterogeneous Context Fusion for Enhancing RAG via AMR-driven Distillation,"** has been accepted for publication in **Pattern Recognition** (D1, CORE A*), with me as the first author—many thanks to all my co-authors for their invaluable support and collaboration!</li>
     <li><em>2026.07</em>: I'm honored to have received the Social Computing Rising Star Award and to have delivered an invited talk entitled "Social Sensing, Modelling, and Decision Support in Disaster Scenarios" at CAAI-BDSC 2026 in Chongqing, China.</li>
     <li><em>2026.06</em>: Our special issue in Pattern Recognition, <a href="https://www.sciencedirect.com/special-issue/334009/agentic-ai-for-pattern-recognition">“Agentic AI for Pattern Recognition”</a>, is now open for submissions. We warmly welcome high-quality papers from the community!</li>
     <li><em>2026.05</em>: We have two papers accepted by SIGKDD 2026! Congratulations to the team!</li>
