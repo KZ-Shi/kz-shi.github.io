@@ -27,6 +27,7 @@ I am a Lecturer (Assistant Professor) at the [School of Science, Engineering and
 # 📝 Selected Publications
 
 ## 2026
+- `PR` **K. Shi**, X. Sun, Q. Lin, Y. Li, Q. Li, G. Xu. ***Concept-based Heterogeneous Context Fusion for Enhancing RAG via AMR-driven Distillation***. *Pattern Recognition*
 - `ACL 2026` **K. Shi**, X. Sun, X. Tao, L. Li, Q. Lin, G. Xu. ***Concept rather than Document: Context Compression via AMR-based Conceptual Entropy***. *ACL 2026 Findings*
 - `IEEE TAFFC` X. Sun, **K. Shi**\*, Q. Lin, Q. Li, G. Xu. ***Context-Aware Toxicity-Adaptive Sampling for Affective Language Generation***. *IEEE Transactions on Affective Computing*
 - `WWW 2026` W. Fang, L. Li, **K. Shi**, Y. Yang, J. Zhang. ***Belief-Driven Multi-Agent Collaboration via Approximate Perfect Bayesian Equilibrium for Social Simulation***. *The Web Conference 2026*
