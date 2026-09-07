@@ -19,6 +19,7 @@
 </style>  
 <div class="scrollable-area">  
     <ul>
+    <li><em>2026.09</em>: I've been selected to join the EMCAP Executive Committee for <a href="https://naturalhazards.com.au/">Natural Hazards Research Australia</a>.</li>
     <li><em>2026.08</em>: Excited to share that our team has three papers accepted at EMNLP 2026—two Main Conference papers and one Findings paper, spanning LLM-generated fiction, bias mitigation, and quantized graph representation learning. Congratulations to the entire team! 🎉</li>
     <li><em>2026.08</em>: Our paper, "Concept-based Heterogeneous Context Fusion for Enhancing RAG via AMR-driven Distillation," has been accepted for publication in Pattern Recognition (D1, CORE A*), with me as the first author—many thanks to all my co-authors for their invaluable support and collaboration! 🎉</li>
     <li><em>2026.07</em>: I'm honored to have received the Social Computing Rising Star Award and to have delivered an invited talk entitled "Social Sensing, Modelling, and Decision Support in Disaster Scenarios" at CAAI-BDSC 2026 in Chongqing, China.</li>
