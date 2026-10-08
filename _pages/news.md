@@ -19,6 +19,7 @@
 </style>  
 <div class="scrollable-area">  
     <ul>
+    <li><em>2026.10</em>: I have been appointed as an Associate Editor of <a href="[https://naturalhazards.com.au](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics)/">IEEE Transactions on Consumer Electronics.</li>
     <li><em>2026.09</em>: Excited to share that our team has one paper accepted at NeurIPS 2026!</li>
     <li><em>2026.09</em>: I've been selected to join the EMCAP Executive Committee for <a href="https://naturalhazards.com.au/">Natural Hazards Research Australia</a>.</li>
     <li><em>2026.08</em>: Excited to share that our team has three papers accepted at EMNLP 2026—two Main papers and one Findings paper, spanning LLM-generated fiction, bias mitigation, and quantized graph representation learning. Congratulations to the entire team! 🎉</li>
