@@ -19,6 +19,7 @@
 </style>  
 <div class="scrollable-area">  
     <ul>
+    <li><em>2026.10</em>: I'm honored to have received a 2026 UniSQ Stellar Award Commendation from a student in recognition of my dedication to student learning, academic mentorship, and career development.</li>
     <li><em>2026.10</em>: I have been appointed as an Associate Editor of <a href="https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics">IEEE Transactions on Consumer Electronics</a>.</li>
     <li><em>2026.09</em>: Excited to share that our team has one paper accepted at NeurIPS 2026!</li>
     <li><em>2026.09</em>: I've been selected to join the EMCAP Executive Committee for <a href="https://naturalhazards.com.au/">Natural Hazards Research Australia</a>.</li>
