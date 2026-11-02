@@ -1,12 +1,13 @@
-from scholarly import scholarly, ProxyGenerator
+from scholarly import scholarly
 import jsonpickle
 import json
 from datetime import datetime
 import os
 
-pg = ProxyGenerator()
-pg.FreeProxies()
-scholarly.use_proxy(pg)
+# Public author profiles can be fetched directly. The free-proxy provider can
+# return an empty list, which would stop every update before contacting Scholar.
+scholarly.set_timeout(30)
+scholarly.set_retries(3)
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
